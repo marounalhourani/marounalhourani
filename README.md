@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @marounalhourani
 - 👀 I’m interested in philosophy, theology, science, and technology
-- 🌱 I’m currently learning python and computer science
+- 🌱 I’m currently a Senior Computer Science student who loves code
 - 📫 How to reach me: alhouranimaroun@gmail.com , or follow me on instagram: maroun_alhourani
 
 <!---
